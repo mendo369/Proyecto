@@ -14,4 +14,4 @@ module.exports.ProductsAPI = (app)=>{
         .delete('/:id', ProductControllers.deleteProduct);
 
     app.use('/api/products', router);//concatena las rutas
-};
+}; 

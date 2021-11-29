@@ -1,4 +1,4 @@
-//capa donde se gestiona la comunicación y los servicios con nestra base de datos
+//capa donde se gestiona la comunicación y los servicios con nuestra base de datos
 
 const {ObjectId} = require('mongodb')//necesario para poder obtener el id ya que el _id es un object
 
